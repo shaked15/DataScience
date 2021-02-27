@@ -1,1 +1,1 @@
-This is my first README--"# DataScience" 
+This is my DataScience course--"# DataScience" 
